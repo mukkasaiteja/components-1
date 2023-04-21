@@ -1,0 +1,12 @@
+.main-footer{
+    height: 100%;
+    display: grid;
+    justify-content: space-around;
+    grid-template-columns: 30% 30% 30%;
+    color: white;
+   
+    background-color: gray;
+}
+.footer{
+    margin-left: 20px;
+}
