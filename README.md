@@ -1,6 +1,6 @@
 # Host link(https://646f39fef29c5b042c8f98bd--shiny-blancmange-77b5bb.netlify.app/)
 
-## This project mad eby using react.js 
+## This project made by using react.js 
 
 
 
